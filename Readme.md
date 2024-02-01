@@ -2,7 +2,7 @@
 
 * Студент: [Николай Трыков](https://up.htmlacademy.ru/htmlcss/39/user/2396707).
 * Наставник:[Ирина Антипина](https://htmlacademy.ru/profile/id2108789).
-
+* Сайт:[Мой проект](https://nikolaytr4355464356.github.io/2396707-sedona-39/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
